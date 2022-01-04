@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My Name is Bahadir and I'm a Software Enthusiast with a Passion for Clean Code, Agile Development and Automation.  
+**My Name is Bahadir and I'm a Software Enthusiast with a Passion for Clean Code, Agile Development and Automation.**
 
 <!--
 **eulersexception/eulersexception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
